@@ -1,0 +1,6 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "go.formatTool": "gofmt",
+    "go.lintOnSave": true,
+    "go.gopath": "/Users/ajinkya/goprojects"
+}
